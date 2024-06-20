@@ -22,6 +22,8 @@ st.markdown("""
   - Alicia Kristina Parinussa (1301213507)  
   - Devi Zahra Aulia (1301213155)  
   - Sintia Dwi Cahya (1301213440)  
+**Yang Dapat Diinputkan !!!
+* *Rentang Waktu Data AMAN.JK: 13 March 2020 sampai 13 March 2024
 """)
 
 # Input tanggal dari pengguna
